@@ -4,3 +4,4 @@
 .venv/
 build/
 .cache/
+.pytest_cache/
